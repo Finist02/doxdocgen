@@ -31,6 +31,7 @@
     "onLanguage:cuda",
     "onLanguage:cuda-cpp",
     "onLanguage:cpp",
+    "onLanguage:ctrlpp",
     "onLanguage:c"
   ],
   "contributes": {
